@@ -1,0 +1,3 @@
+[submodule "ai-agent-contract/lib/forge-std"]
+	path = ai-agent-contract/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
